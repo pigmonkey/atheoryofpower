@@ -1,0 +1,6 @@
+---
+title: A Theory of Power
+author: Jeff Vail
+language: en-US
+date: 2004
+...
